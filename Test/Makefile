@@ -34,9 +34,9 @@
 #
 
 
-ROOTNAME=HelloWorldTest
-HW=
-FOPTION=
+ROOTNAME=abadines_thomas
+HW=_
+FOPTION=TestProgram
 RUNOPTIONS=
 CC=gcc
 CFLAGS= -g -I.
